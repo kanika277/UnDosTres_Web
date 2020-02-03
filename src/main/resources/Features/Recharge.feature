@@ -1,4 +1,4 @@
-@regression @smoke
+@regression
 Feature: User recharge through the application
 
   Scenario: Verify if the user able to reach to the Payment screen or not.
